@@ -1,10 +1,33 @@
-# 🚀 Deviora Tech
+# 🚀 Deviora Tech  ##La précision au cœur de l’innovation
+<!-- Bannière ou Logo -->
+<div align="center">
+  <img src="https://i.ibb.co/5xgBG7rJ/Whats-App-Image-2025-08-24-15-26-08-55386fee.jpg" 
+       alt="Logo" 
+       width="200" 
+       style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
+</div>
 
-<img hieght="240" width="240" src="https://i.ibb.co/5xgBG7rJ/Whats-App-Image-2025-08-24-15-26-08-55386fee.jpg" alt="Whats-App-Image-2025-08-24-15-26-08-55386fee" border="0">
 
-*💡 Slogan :* La précision au cœur de l’innovation  
 
----
+<div align="center">
+<h2 align="center"> 🛠️ Compétences Techniques</h2>
+
+
+
+### **Backend**
+<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,express" />
+
+### **Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" /><br>
+<img src="https://skillicons.dev/icons?i=react,vue,tailwind,nextjs" />
+
+### **Bases de Données**
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
+
+### **Outils & DevOps**
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma" />
+  </div>
+  
 
 ## 📖 Description / Mission
 
